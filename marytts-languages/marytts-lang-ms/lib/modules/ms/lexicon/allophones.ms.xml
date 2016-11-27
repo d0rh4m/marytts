@@ -1,0 +1,46 @@
+ <allophones name="sampa" xml:lang="ms"
+		features="vlng vheight vfront vrnd ctype cplace cvox">
+		
+		<silence ph="_"/>
+
+		<vowel ph="a" vlng="s" vheight="3" vfront="2" vrnd="-"/> <!--- Open central unrounded vowel --> 
+		<vowel ph="e" vlng="s" vheight="1" vfront="1" vrnd="-"/> <!--- Close-mid front unrounded vowel --> 		
+		<vowel ph="E" vlng="s" vheight="3" vfront="1" vrnd="-"/> <!--- Open-mid front unrounded vowel --> 		
+		<vowel ph="i" vlng="s" vheight="1" vfront="1" vrnd="-"/> <!--- Close front unrounded vowel --> 
+		<vowel ph="I" vlng="s" vheight="1" vfront="1" vrnd="-"/> <!--- Near-close near-front unrounded vowel --> 				
+		<vowel ph="o" vlng="s" vheight="1" vfront="3" vrnd="+"/> <!--- Close-mid back rounded vowel --> 
+		<vowel ph="O" vlng="s" vheight="3" vfront="3" vrnd="+"/> <!--- Open-mid back rounded vowel --> 		
+		<vowel ph="u" vlng="s" vheight="1" vfront="3" vrnd="+"/> <!--- Close back rounded vowel --> 		
+		<vowel ph="U" vlng="s" vheight="1" vfront="3" vrnd="+"/> <!--- Near-close near-back rounded vowel --> 
+		<vowel ph="@" vlng="s" vheight="2" vfront="2" vrnd="-"/> <!--- mid central vowel --> 
+		
+		<vowel ph="aI" vlng="d" vheight="3" vfront="1" vrnd="-"/>
+		<vowel ph="aU" vlng="d" vheight="3" vfront="2" vrnd="+"/>
+		
+		<consonant ph="b" ctype="s" cplace="l" cvox="+"/> 		<!-- plosive	bilabial	voiced	 	-->
+		<consonant ph="d" ctype="s" cplace="a" cvox="+"/>		<!-- plosive	alveolar	voiced		-->
+		<consonant ph="D" ctype="f" cplace="b" cvox="+"/>		<!-- fricative	 dental 	voiced		-->
+		<consonant ph="dZ" ctype="s" cplace="p" cvox="+"/>		<!-- plosive	Palatal		voiced		-->
+		<consonant ph="f" ctype="f" cplace="l" cvox="-"/>		<!-- Fricative	labial		voiceless	-->			
+		<consonant ph="g" ctype="s" cplace="v" cvox="+"/>		<!-- plosive	velar		voiced		-->		
+		<consonant ph="h" ctype="f" cplace="g" cvox="-"/>		<!-- fricative	glottal		voiceless	-->		
+		<consonant ph="j" ctype="a" cplace="p" cvox="+"/>		<!-- aproximant	palatal		voiced		-->			
+		<consonant ph="k" ctype="s" cplace="v" cvox="+"/>		<!-- plosive 	velar		voiceless	-->		
+		<consonant ph="l" ctype="a" cplace="a" cvox="+"/>		<!-- approximant alveolar	voiceless	-->	
+		<consonant ph="m" ctype="n" cplace="l" cvox="+"/>		<!-- approximant alveolar	voiceless	-->		
+		<consonant ph="p" ctype="s" cplace="l" cvox="-"/>		<!-- approximant alveolar	voiceless	-->			
+		<consonant ph="v" ctype="f" cplace="l" cvox="+"/>		<!-- approximant alveolar	voiceless	-->	
+		<consonant ph="w" ctype="a" cplace="l" cvox="+"/>		<!-- approximant alveolar	voiceless	-->	
+		<consonant ph="T" ctype="f" cplace="b" cvox="-"/>		<!-- approximant alveolar	voiceless	-->	
+		<consonant ph="n" ctype="n" cplace="a" cvox="+"/>		<!-- approximant alveolar	voiceless	-->			
+		<consonant ph="t" ctype="s" cplace="a" cvox="-"/>		<!-- approximant alveolar	voiceless	-->	
+		<consonant ph="s" ctype="f" cplace="a" cvox="-"/>		<!-- approximant alveolar	voiceless	-->	
+		<consonant ph="z" ctype="f" cplace="a" cvox="+"/>		<!-- approximant alveolar	voiceless	-->	
+		<consonant ph="r" ctype="r" cplace="a" cvox="+"/>		<!-- approximant alveolar	voiceless	-->	
+		<consonant ph="J" ctype="n" cplace="p" cvox="+"/>		<!-- approximant alveolar	voiceless	-->		
+		<consonant ph="ts" ctype="s" cplace="p" cvox="-"/>		<!-- approximant alveolar	voiceless	-->	
+		<consonant ph="S" ctype="f" cplace="p" cvox="-"/>		<!-- approximant alveolar	voiceless	-->	
+		<consonant ph="N" ctype="n" cplace="v" cvox="+"/>		<!-- approximant alveolar	voiceless	-->	
+		<consonant ph="x" ctype="f" cplace="v" cvox="-"/>		<!-- approximant alveolar	voiceless	-->	
+		<consonant ph="?" ctype="s" cplace="g" cvox="-"/>		<!-- approximant alveolar	voiceless	-->	
+</allophones>			

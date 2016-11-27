@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<maryxml xmlns="http://mary.dfki.de/2002/MaryXML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="0.5" xml:lang="ms">
+  <p>
+    <s>
+      <t>Selamat</t>
+      <t>datang</t>
+      <t>ke</t>
+      <t>dunia</t>
+      <t>Pemprosesan</t>
+      <t>Bahasa</t>
+      <t>Asli</t>
+      <t>,</t>
+      <t>dibawakan</t>
+      <t>khas</t>
+      <t>oleh</t>
+      <t>Azim</t>
+      <t>Yusoff</t>
+      <t>!</t>
+    </s>
+  </p>
+</maryxml>
